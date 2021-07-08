@@ -1,0 +1,10 @@
+{
+    "token": "YOUR_TOKEN_GOES_HERE",
+    "prefix": "BOT_PREFIX",
+    "invite": "BOT_INVITE_URL__OPTIONAL",
+    "hypixelAPI": "HYPIXEL_API_KEY",
+    "status": "BOT_STATUS__OPTIONAL",
+    "type": "BOT_ACTIVITY_TYPE__OPTIONAL",
+    "name": "BOT_ACTIVITY__OPTIONAL",
+    "desc": "BOT_ACTIVITY_DESCRIPTION__OPTIONAL"
+}
