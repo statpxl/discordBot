@@ -1,8 +1,10 @@
 {
     "token": "YOUR_TOKEN_GOES_HERE",
+    "hypixelAPI": "HYPIXEL_API_KEY",
+    "mongodb": "MONGODB_URL",
     "prefix": "BOT_PREFIX",
     "invite": "BOT_INVITE_URL__OPTIONAL",
-    "hypixelAPI": "HYPIXEL_API_KEY",
+    "support": "BOT_SUPPORT_SERVER__OPTIONAL",
     "status": "BOT_STATUS__OPTIONAL",
     "type": "BOT_ACTIVITY_TYPE__OPTIONAL",
     "name": "BOT_ACTIVITY__OPTIONAL",
